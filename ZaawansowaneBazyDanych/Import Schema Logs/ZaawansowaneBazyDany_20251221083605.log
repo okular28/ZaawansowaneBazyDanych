@@ -1,0 +1,86 @@
+21/12/2025 21:36:05	This log contains information about the import schema operation into project 'ZaawansowaneBazyDanych' on computer 'LATITUDE' by user 'okular'.
+21/12/2025 21:36:06	Import of database schema has started.
+21/12/2025 21:36:08	Gathering logins
+21/12/2025 21:36:19	Gathering database credentials
+21/12/2025 21:36:19	Gathering database options
+21/12/2025 21:36:19	Gathering generic database scoped configuration option
+21/12/2025 21:36:19	Gathering users
+21/12/2025 21:36:19	Gathering roles
+21/12/2025 21:36:19	Gathering application roles
+21/12/2025 21:36:19	Gathering role memberships
+21/12/2025 21:36:19	Gathering filegroups
+21/12/2025 21:36:19	Gathering full-text catalogs
+21/12/2025 21:36:19	Gathering assemblies
+21/12/2025 21:36:19	Gathering certificates
+21/12/2025 21:36:19	Gathering symmetric keys
+21/12/2025 21:36:19	Gathering encrypted symmetric keys
+21/12/2025 21:36:19	Gathering schemas
+21/12/2025 21:36:19	Gathering XML schema collections
+21/12/2025 21:36:19	Gathering user-defined data types
+21/12/2025 21:36:19	Gathering user-defined types
+21/12/2025 21:36:19	Gathering table types
+21/12/2025 21:36:19	Gathering unique keys for table types
+21/12/2025 21:36:19	Gathering primary keys for table types
+21/12/2025 21:36:20	Gathering indexes for table types
+21/12/2025 21:36:20	Gathering check constraints for table types
+21/12/2025 21:36:20	Gathering default constraints for table types
+21/12/2025 21:36:20	Gathering partition functions
+21/12/2025 21:36:20	Gathering partition schemes
+21/12/2025 21:36:20	Gathering functions
+21/12/2025 21:36:20	Gathering encrypted functions
+21/12/2025 21:36:20	Gathering aggregates
+21/12/2025 21:36:20	Gathering procedures
+21/12/2025 21:36:20	Gathering encrypted procedures
+21/12/2025 21:36:20	Gathering tables
+21/12/2025 21:36:20	Gathering primary keys
+21/12/2025 21:36:20	Gathering unique constraints
+21/12/2025 21:36:20	Gathering foreign keys
+21/12/2025 21:36:20	Gathering default constraints
+21/12/2025 21:36:20	Gathering check constraints
+21/12/2025 21:36:21	Gathering views
+21/12/2025 21:36:21	Gathering encrypted views
+21/12/2025 21:36:21	Gathering indexes
+21/12/2025 21:36:21	Gathering statistics
+21/12/2025 21:36:21	Gathering full-text index stoplists
+21/12/2025 21:36:21	Gathering search property lists
+21/12/2025 21:36:21	Gathering search properties
+21/12/2025 21:36:21	Gathering full-text indexes
+21/12/2025 21:36:21	Gathering column store indexes
+21/12/2025 21:36:21	Gathering spatial indexes
+21/12/2025 21:36:21	Gathering XML indexes
+21/12/2025 21:36:21	Gathering Selective XML indexes
+21/12/2025 21:36:21	Gathering encrypted triggers
+21/12/2025 21:36:21	Gathering triggers
+21/12/2025 21:36:21	Gathering encrypted and clr ddl triggers
+21/12/2025 21:36:21	Gathering ddl triggers
+21/12/2025 21:36:21	Creating edge constraints
+21/12/2025 21:36:21	Gathering synonyms
+21/12/2025 21:36:21	Gathering defaults
+21/12/2025 21:36:21	Gathering data constraint uddt bindings
+21/12/2025 21:36:21	Gathering rules
+21/12/2025 21:36:21	Gathering data constraint uddt bindings
+21/12/2025 21:36:21	Gathering message types
+21/12/2025 21:36:21	Gathering queues
+21/12/2025 21:36:21	Gathering contracts
+21/12/2025 21:36:21	Gathering services
+21/12/2025 21:36:21	Gathering event notifications
+21/12/2025 21:36:21	Gathering remote service bindings
+21/12/2025 21:36:21	Gathering broker priorities
+21/12/2025 21:36:21	Gathering signatures
+21/12/2025 21:36:21	Gathering compression options
+21/12/2025 21:36:21	Gathering sequence types
+21/12/2025 21:36:21	Gathering security policies
+21/12/2025 21:36:21	Gather column encryption keys
+21/12/2025 21:36:21	Gathering column master keys
+21/12/2025 21:36:21	Gathering external data sources
+21/12/2025 21:36:21	Gathering external file formats
+21/12/2025 21:36:21	Gathering external tables
+21/12/2025 21:36:21	Gathering XML index compression options
+21/12/2025 21:36:21	Gathering extended properties
+21/12/2025 21:36:21	Gathering assemblies
+21/12/2025 21:36:21	Gathering logins
+21/12/2025 21:36:22	Scanning project for duplicate elements
+21/12/2025 21:36:22	Finished duplicate element processing
+21/12/2025 21:36:24	Finished importing database.
+21/12/2025 21:36:24	A summary of the import was saved to the following location: C:\zaabd\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\Import Schema Logs\ZaawansowaneBazyDany_20251221083605.log
+21/12/2025 21:36:24	Click Finish to continue...
