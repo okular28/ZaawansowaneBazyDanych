@@ -83,6 +83,9 @@
     <Folder Include="SalesLT\XMLSchemaCollections\" />
     <Folder Include="P0_surname\" />
     <Folder Include="P0_surname\User Defined Types\" />
+    <Folder Include="SalesLT\Functions\" />
+    <Folder Include="Student_0\" />
+    <Folder Include="Student_0\Stored Procedures\" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\BuildVersion.sql" />
@@ -134,5 +137,14 @@
     <Build Include="SalesLT\XMLSchemaCollections\ProductAttributeSchema.sql" />
     <Build Include="P0_surname\User Defined Types\Nazwisko.sql" />
     <Build Include="Security\P0_surname.sql" />
+    <Build Include="SalesLT\Tables\ProductInventory.sql" />
+    <Build Include="SalesLT\Functions\CheckClientExistence.sql" />
+    <Build Include="SalesLT\Stored Procedures\GetCustomerOrderHistory.sql" />
+    <Build Include="SalesLT\Stored Procedures\ClientUpdate.sql" />
+    <Build Include="SalesLT\Stored Procedures\ClientSelect.sql" />
+    <Build Include="SalesLT\Stored Procedures\ClientInsert.sql" />
+    <Build Include="SalesLT\Stored Procedures\AddNewProduct.sql" />
+    <Build Include="Student_0\Stored Procedures\TopProductsPriceChanger.sql" />
+    <Build Include="Security\Student_0.sql" />
   </ItemGroup>
 </Project>
